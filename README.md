@@ -26,8 +26,7 @@ Make sure you have JavaFX installed before running the application.
 
 ```bash
 --module-path /path/to/javafx-sdk-20/lib --add-modules=javafx.controls,javafx.fxml
-
-
+```
 ![start](https://github.com/nighteraser/puzzle_game/assets/110598750/28740b53-4bd5-452c-a58b-eb3024d706ad)
 ![play](https://github.com/nighteraser/puzzle_game/assets/110598750/74aac841-dd81-46c4-a17c-bab2d65cfa0a)
 ![game over](https://github.com/nighteraser/puzzle_game/assets/110598750/e087e661-96a5-42f9-9d6c-2474e2f3c41e)
