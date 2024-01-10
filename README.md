@@ -27,7 +27,7 @@ Make sure you have JavaFX installed before running the application.
 ```bash
 --module-path /path/to/javafx-sdk-20/lib --add-modules=javafx.controls,javafx.fxml
 ```
-![start](https://github.com/nighteraser/puzzle_game/assets/110598750/5e49e2b5-7cfb-4c59-bfc6-f6385cf13c8a)
+![start](https://github.com/nighteraser/puzzle_game/assets/110598750/5e49e2b5-7cfb-4c59-bfc6-f6385cf13c8a)\n
 1. Click on the "Start" button to begin the game.
 ![play](https://github.com/nighteraser/puzzle_game/assets/110598750/0dc7ee46-8bfe-4467-8c1d-856eeed22d21)
 2. Click on the numbers within the puzzle to move them around.
