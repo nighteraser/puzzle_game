@@ -27,10 +27,7 @@ Make sure you have JavaFX installed before running the application.
 ```bash
 --module-path /path/to/javafx-sdk-20/lib --add-modules=javafx.controls,javafx.fxml
 ```
-![start](https://github.com/nighteraser/puzzle_game/assets/110598750/28740b53-4bd5-452c-a58b-eb3024d706ad){: width="90%"}
-![play](https://github.com/nighteraser/puzzle_game/assets/110598750/74aac841-dd81-46c4-a17c-bab2d65cfa0a){: width="90%"}
-![game over](https://github.com/nighteraser/puzzle_game/assets/110598750/e087e661-96a5-42f9-9d6c-2474e2f3c41e){: width="90%"}
-![auto](https://github.com/nighteraser/puzzle_game/assets/110598750/c733a029-b866-4c54-b816-c6ec2dfa5835){: width="90%"}
-
-
-
+![start](https://github.com/nighteraser/puzzle_game/assets/110598750/5e49e2b5-7cfb-4c59-bfc6-f6385cf13c8a)
+![play](https://github.com/nighteraser/puzzle_game/assets/110598750/0dc7ee46-8bfe-4467-8c1d-856eeed22d21)
+![game over](https://github.com/nighteraser/puzzle_game/assets/110598750/d6a0771c-cef0-4791-ab97-00af0d089a93)
+![auto](https://github.com/nighteraser/puzzle_game/assets/110598750/1317ce91-b32c-403c-9793-f258eb2e078e)
